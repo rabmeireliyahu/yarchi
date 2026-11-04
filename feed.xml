@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>הגאון הדיין הרב אהרן ירחי שליט״א</title>
+    <description>שיעורי הלכה, פרשת השבוע ומוסר מאת הגאון הדיין הרב אהרן ירחי שליט״א, בבתי הכנסת מוסאיוף, יזדים וחזון יעקב. Otzar HaTorah - אוצר התורה.</description>
+    <link>https://rabmeireliyahu.github.io/yarchi</link>
+    <language>he</language>
+    <itunes:author>הרב אהרן ירחי שליט״א</itunes:author>
+    <itunes:owner><itunes:name>הרב אהרן ירחי שליט״א</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/yarchi/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
